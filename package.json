@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@adobe/lit-mobx": "0.0.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "lit-element": "^2.2.1",
     "lit-html": "latest",
     "marked": "^0.8.0",
