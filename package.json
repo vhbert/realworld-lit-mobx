@@ -38,7 +38,7 @@
     "axios": "^0.19.0",
     "lit-element": "^2.2.1",
     "lit-html": "latest",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "mobx": "^5.15.1",
     "mobx-persist": "^0.4.1",
     "slick-router": "^2.4.0",
